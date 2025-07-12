@@ -1,3 +1,3 @@
 ## About Me
 
-![](https://github-readme-stats-kafl.vercel.app/api/top-langs?username=yuyu-ryokucha&count_private=true)
+![](https://github-readme-stats-kafl.vercel.app/api/top-langs?username=yuyu-ryokucha&count_private=true&langs_count=3)
